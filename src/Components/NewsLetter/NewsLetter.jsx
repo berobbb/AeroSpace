@@ -6,7 +6,7 @@ export const NewsLetter = () => {
     <div className="mx-auto max-w-7xl px-2 py-10 lg:px-0">
       <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between">
         <div className="w-full md:w-2/3 lg:w-1/2">
-          <h2 className="text-3xl font-bold text-black text-left">Sign up for our weekly newsletter</h2>
+          <h2 className="text-3xl font-bold text-black text-left">Sign up for our monthly newsletter</h2>
           <p className="mt-4 text-gray-600 text-left">
           AnuBrahman, like the cosmos it explores, spans everything from the tiniest atom (Anu) to the vast unknown (Brahmand).
           </p>

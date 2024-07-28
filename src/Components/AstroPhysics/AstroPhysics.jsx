@@ -3,7 +3,7 @@ import React from 'react'
 export function AstroPhysics() {
   return (
     <>
-     <h1 className="text-3xl font-bold mb-6 text-left hover:scale-105 transition ease-in-out duration-300 border-b-2 border-gray-200 mb-8">AstroPhysics</h1>
+     <h1 className="text-3xl font-bold mb-6 text-left hover:scale-105 transition ease-in-out duration-300 border-b-2 border-gray-200">AstroPhysics</h1>
      <div className=' flex justify-between'>
     <div className="w-[300px] rounded-md border">
          
