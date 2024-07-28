@@ -16,7 +16,7 @@ export function Reviews() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6 text-left border-b-2 border-gray-200 hover:scale-105 transition ease-in-out duration-300" >Submit Your Reviws</h1>
+      <h1 className="text-3xl font-bold mb-6 text-left border-b-2 border-gray-200 hover:scale-105 transition ease-in-out duration-300" >Submit Your Reviews</h1>
       <form onSubmit={handleSubmit} className="mb-8">
         <div className="mb-4">
           <label htmlFor="name" className="block text-gray-700 font-bold mb-2 text-left">
